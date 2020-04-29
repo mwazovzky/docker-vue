@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mwazovzky/docker-vue.svg?branch=master)](https://travis-ci.com/mwazovzky/docker-vue)
+
 # docker-vue
 
 ## Project setup
